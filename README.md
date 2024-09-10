@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Krisztián Henrik Papp</h1>
-<h3 align="center">A Linux System Administrator located in Hungary 🇭🇺, currently looking for opportunities in The Netherlands 🇳🇱</h3>
+<h1 align="center">Hi 👋, I'm Henkas</h1>
+<h3 align="center">A System Administrator located in The Netherlands, originally from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henkyfen" alt="henkyfen" /> </p>
 
-- 🔭 I’m currently working as a Linux System Administrator at Morgan Stanley
+- 🔭 I’m currently working as an IT Consultant / Systems Administrator at Arteq.
 
 - 🌱 I’m currently learning **RHEL, Cisco, Linux, CLoud**
 
 - 👯 I’m looking to collaborate on **anything interesting**
-
-- 👨‍💻 All of my projects are available at [https://henky.me/#projects](https://henky.me/#projects)
 
 - 📫 You can reach me via Email at **pkh@henky.me** or on [LinkedIn @ k-henrik-p](https://linkedin.com/in/k-henrik-p)
 
